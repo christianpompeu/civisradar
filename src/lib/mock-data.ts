@@ -1,1 +1,1 @@
-import { Parlamentar } from "@/types/parlamentar"
+import type { Parlamentar } from "@/types/parlamentar"
